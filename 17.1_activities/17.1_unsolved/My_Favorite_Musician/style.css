@@ -1,0 +1,4 @@
+body    {background-color:darkgrey; width: 1096px;}
+img {object-fit:cover;}
+
+.wrapper {font-size: 22px; color: white; z-index: 1000; margin-top: -320px; background-color: black; margin-left:30px; margin-right: 30px;}
